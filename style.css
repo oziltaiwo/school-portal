@@ -1,0 +1,234 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgba(191, 39, 115, 0.78);
+}
+.nav{
+    width: 100%;
+    height: 250px;
+    background-color:cornflowerblue;
+    border-bottom-right-radius: none; 
+    margin-top: 
+}
+.logo{
+    margin-top: 65;
+    margin-left: 50;
+}
+.team{
+    margin-top: -175;
+    margin-left: 155;
+    text-align: left;
+}
+span{
+    color: white;
+    font-size: 45;
+}
+span1{
+    color: blue;
+    font-size: 45;
+}
+.team2{
+    margin-top: -50;
+    float: left;
+    margin-left: 50%
+}
+.team3{
+    float: right;
+    padding: 10;
+    margin-right: 15%;
+    margin-top: -60;
+    color: white;
+}
+.team3:hover{
+    color: red;
+}
+.team4{
+    float: right;
+    margin-right:5%;
+    padding: 10;
+    margin-top: -57;
+    color: white;
+}
+.img{
+    background-image: url(img/class%20st.jpeg);
+    background-size:cover;
+    height: 50%;
+    padding: 35;
+    margin-top: 50;
+}
+.home-page{
+    display: inline;
+    width: 20%;
+    float: left;
+    padding: 2px;
+    background-color:cornflowerblue;
+    color: #fff;
+    margin-top:51;
+    height: 59%;
+    line-height: 2;
+    margin-left: 10%;
+}
+.home-page li{
+     list-style-type: none;
+}
+.home-page .fa{
+    margin-right: 8px;
+}
+
+.first-page{
+    display: inline-block;
+    float: left;
+    padding: 10;
+    margin-left: 3%;
+    color: white;
+}
+u{
+    color: darkslateblue
+}
+.first-page h1{
+    color: darkslateblue;
+}
+.container{
+    border: 1px solid #cbcbcb;
+    width: 450px;
+    margin-top: -20
+    
+}
+.About-us{
+    display: inline-block;
+    float: left;
+    margin-left: 3%;
+    color: white;
+}
+.container1{
+    border: 1px solid #cbcbcb;
+    width: 350px;
+    margin-top: -12;
+}
+.About-us h1{
+    color: darkslateblue;
+    
+}
+.Latest-news {
+    float: right;
+    padding: 10;
+    margin-right: 2%;
+    display:in inline-block;
+    color: white;
+    margin-top:-10; 
+}
+.container2{
+    border: 1px solid #cbcbcb;
+    width: 350px;
+    margin-top:-13;
+}
+.Latest-news u{
+    color: darkslateblue;
+}
+.Latest-news h4{
+    float: right;
+    margin-right: 30%;
+    color: darkslateblue;
+}
+.Latest-news h1{
+    color: darkslateblue;
+}
+.education{
+    display: inline-block;
+    margin-left: 3%;
+    color: darkslateblue;
+}
+.container3{
+    border: 1px solid #cbcbcb;
+    width: 260px;
+    margin-top: -20px;
+}
+.education > h1{
+    color: darkslateblue;
+}
+.links{
+    display: inline-block;
+    margin-left: 5%;
+    color: darkslateblue;
+}
+.container4{
+    border: 1px solid #cbcbcb;
+    width: 260px;
+    margin-top: -20px;
+}
+.links > h1{
+    color: darkslateblue;
+}
+.methodology{
+    display: inline-block;
+    margin-left: 2%;
+    color: darkslateblue;
+}
+.container5{
+    border: 1px solid #cbcbcb;
+    width: 230px;
+    margin-top: -20px;
+}
+.methodology > h1{
+    color: darkslateblue;
+}
+.date{
+    display: inline-block;
+    float: right;
+    margin-right: 3%;
+    padding: 5px;
+    margin-top: -120;
+    color: white;
+}
+.date u{
+    color: darkslateblue;
+}
+.date h4{
+    float: right;
+    color: darkslateblue;
+}
+.down-nav{
+    margin-left: 3%;
+    margin-top: 100px;
+    color: white;
+}
+.container6{
+    border: 1px solid #cbcbcb;
+    width: 80%;
+    margin-top: -20;
+}
+.down-nav h1{
+    color: darkslateblue;
+}
+.eno{
+    width: 150;
+    float: right;
+    margin-right: 5%;
+    margin-top: -50
+}
+.last-div{
+    padding:20px;
+    text-decoration: none; 
+    display: inline-block;
+    float: left;
+}
+.last-div a{
+    color:black;
+    padding:20px;
+    line-height: 60px;
+    font-weight: 400px;
+    color: white;
+} 
+.last-div-right p{
+    float: right;
+    margin-top: 50px;
+    margin-right: -150;
+    color: white;
+}
+.last-div-right a{
+    float: left;
+    margin-top: 50px;
+    padding: 5;
+    color: white;
+}
+   
